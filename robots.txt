@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emoa2l.github.io/sitemap.xml
